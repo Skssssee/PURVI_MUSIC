@@ -2,13 +2,6 @@
 # https://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file! Do not edit.
 
-.youtube.com	TRUE	/	TRUE	1770117349	VISITOR_INFO1_LIVE	Y6NoPJb01Fs
-.youtube.com	TRUE	/	TRUE	1770117349	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgDw%3D%3D
-.youtube.com	TRUE	/	TRUE	1789125357	PREF	tz=Asia.Kolkata&f5=30000&f6=40000000&f7=100
-.youtube.com	TRUE	/	TRUE	1786101349	__Secure-1PSIDTS	sidts-CjUB5H03P4yZxwuZW51vkFuxOE0J3Xg0Zr2ST7HVOM8PIQzPaZjyGk6XYH9hbAsMUW3JTlj8Zh# Netscape HTTP Cookie File
-# https://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file! Do not edit.
-
 .youtube.com	TRUE	/	TRUE	1770117766	VISITOR_INFO1_LIVE	Y6NoPJb01Fs
 .youtube.com	TRUE	/	TRUE	1770117766	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgDw%3D%3D
 .youtube.com	TRUE	/	TRUE	1789126113	PREF	tz=Asia.Kolkata&f5=30000&f6=40000000&f7=100
